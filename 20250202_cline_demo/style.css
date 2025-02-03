@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #1a1a1a;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+.game-container {
+    display: flex;
+    gap: 2rem;
+}
+
+canvas {
+    border: 2px solid #333;
+    background: #000;
+    width: 300px;
+    height: 600px;
+}
+
+.game-info {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+#score {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.controls p {
+    margin: 0.5rem 0;
+}
