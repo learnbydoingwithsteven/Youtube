@@ -1,0 +1,8 @@
+--- Linear Regression Results ---
+Timestamp: 20250401_111401
+Intercept (theta_0): 4.2063
+Coefficient (theta_1): 2.9903
+Train MSE: 1.0113
+Train R2: 0.7598
+Test MSE: 0.9178
+Test R2: 0.6521

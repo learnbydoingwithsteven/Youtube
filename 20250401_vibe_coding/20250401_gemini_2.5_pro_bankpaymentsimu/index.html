@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank Internal Payment System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Internal Payment Processing</h1>
+
+        <div class="section" id="request-section">
+            <h2>1. Client Payment Request</h2>
+            <form id="payment-form">
+                <label for="sender-account">Sender Account:</label>
+                <input type="text" id="sender-account" required placeholder="e.g., 123456789">
+
+                <label for="receiver-name">Receiver Name:</label>
+                <input type="text" id="receiver-name" required placeholder="e.g., John Doe">
+
+                <label for="receiver-account">Receiver Account (IBAN):</label>
+                <input type="text" id="receiver-account" required placeholder="e.g., DE89 3704 0044 0532 0130 00">
+
+                <label for="receiver-bic">Receiver BIC/SWIFT:</label>
+                <input type="text" id="receiver-bic" required placeholder="e.g., DEUTDEFF">
+
+                <label for="amount">Amount:</label>
+                <input type="number" id="amount" required step="0.01" placeholder="e.g., 1000.00">
+
+                <label for="currency">Currency:</label>
+                <select id="currency" required>
+                    <option value="EUR">EUR</option>
+                    <option value="USD">USD</option>
+                    <option value="GBP">GBP</option>
+                </select>
+
+                <label for="payment-reference">Payment Reference:</label>
+                <input type="text" id="payment-reference" required placeholder="e.g., Invoice INV-123">
+
+                <button type="submit">Submit Request</button>
+            </form>
+        </div>
+
+        <div class="section" id="processing-section" style="display: none;">
+            <h2>2. Internal Processing</h2>
+            <div id="processing-steps">
+                <p>Processing request...</p>
+                <ul>
+                    <li id="check-funds">Checking Funds...</li>
+                    <li id="check-compliance">Compliance Check...</li>
+                    <li id="check-beneficiary">Beneficiary Validation...</li>
+                    <li id="approval">Awaiting Approval...</li>
+                </ul>
+            </div>
+            <button id="approve-payment" disabled>Approve Payment</button>
+        </div>
+
+        <div class="section" id="swift-section" style="display: none;">
+            <h2>3. SWIFT Message Formulation (MT103)</h2>
+            <pre id="swift-message"></pre>
+            <button id="send-swift" disabled>Send SWIFT Message</button>
+        </div>
+
+        <div class="section" id="confirmation-section" style="display: none;">
+            <h2>4. Confirmation</h2>
+            <p id="confirmation-message">Payment processed and SWIFT message sent.</p>
+            <button id="new-payment">Process Another Payment</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

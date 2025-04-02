@@ -1,0 +1,24 @@
+--- K-Means Clustering Results ---
+Timestamp: 20250401_111432
+Parameters: n_samples=300, n_features=2, generated_centers=4, K_used=4, random_state=42
+
+Final Inertia (K=4): 362.4724
+Silhouette Score (K=4): 0.8335
+
+Final Centroid Locations:
+[[-2.6372,  8.9856],
+ [-6.8418, -6.8404],
+ [ 4.7025,  2.0281],
+ [-8.8333,  7.2179]]
+
+Elbow Method Inertia Values:
+ K=1: 19780.25
+ K=2: 9211.21
+ K=3: 1919.36
+ K=4: 362.47
+ K=5: 329.27
+ K=6: 294.61
+ K=7: 261.56
+ K=8: 232.01
+ K=9: 209.10
+ K=10: 188.72

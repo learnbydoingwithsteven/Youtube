@@ -1,0 +1,74 @@
+:root {
+  --board-width: 700px;
+  --board-height: 500px;
+  --paddle-width: 15px;
+  --paddle-height: 100px;
+  --ball-size: 15px;
+  --neon-blue: #00ffff;
+  --neon-pink: #ff00ff;
+  --dark-bg: #0a0a1f;
+}
+
+body {
+  margin: 0;
+  background-color: var(--dark-bg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: 'Courier New', Courier, monospace;
+  color: var(--neon-blue);
+}
+
+.score {
+  display: flex;
+  justify-content: space-around;
+  font-size: 2rem;
+  font-weight: bold;
+  position: absolute;
+  top: 20px;
+  width: 300px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-shadow: 0 0 10px var(--neon-blue), 0 0 20px var(--neon-blue);
+}
+
+.game-board {
+  position: relative;
+  width: var(--board-width);
+  height: var(--board-height);
+  background-color: var(--dark-bg);
+  border: 3px solid var(--neon-blue);
+  box-shadow: 0 0 20px var(--neon-blue), inset 0 0 20px var(--neon-blue);
+  overflow: hidden; /* Keep elements inside */
+}
+
+.paddle {
+  position: absolute;
+  width: var(--paddle-width);
+  height: var(--paddle-height);
+  background-color: var(--neon-pink);
+  box-shadow: 0 0 10px var(--neon-pink), 0 0 20px var(--neon-pink);
+  top: calc(50% - var(--paddle-height) / 2); /* Center vertically */
+}
+
+.paddle.left {
+  left: 10px;
+}
+
+.paddle.right {
+  right: 10px;
+  background-color: var(--neon-blue); /* Different color for computer */
+  box-shadow: 0 0 10px var(--neon-blue), 0 0 20px var(--neon-blue);
+}
+
+.ball {
+  position: absolute;
+  width: var(--ball-size);
+  height: var(--ball-size);
+  background-color: white;
+  border-radius: 50%;
+  top: calc(50% - var(--ball-size) / 2);
+  left: calc(50% - var(--ball-size) / 2);
+  box-shadow: 0 0 15px white, 0 0 30px white;
+}
