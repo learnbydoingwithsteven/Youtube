@@ -1,0 +1,648 @@
+{
+  "brands": [
+    {
+      "name": "Dreame",
+      "products": [
+        {
+          "name": "Dreame X50 Ultra Robot Vacuum and Mop with Auto-Empty and Mop Self-Cleaning",
+          "price": {
+            "original": 1699.99,
+            "current": 1399.99,
+            "discount": "18%"
+          },
+          "rating": {
+            "average": 4.2,
+            "total_reviews": 108,
+            "breakdown": {
+              "5_star": 75,
+              "4_star": 13,
+              "3_star": 3,
+              "2_star": 5,
+              "1_star": 12
+            }
+          },
+          "features": [
+            "Auto-Empty",
+            "Mop Self-Cleaning",
+            "20,000Pa Suction",
+            "Obstacle Avoidance",
+            "360° Navigation"
+          ],
+          "latest_reviews": [
+            {
+              "author": "John",
+              "date": "April 29, 2025",
+              "rating": 5,
+              "title": "Amazing Upgrade – Worth Every Penny!",
+              "verified_purchase": true,
+              "helpful_votes": 2
+            },
+            {
+              "author": "M1Rate",
+              "date": "March 18, 2025",
+              "rating": 5,
+              "title": "An Expensive but Full-Fledged & Effective Floor Cleaner",
+              "verified_purchase": true,
+              "helpful_votes": 37
+            },
+            {
+              "author": "Captain Matt",
+              "date": "March 26, 2025",
+              "rating": 5,
+              "title": "WORTH EVERY PENNY!",
+              "verified_purchase": true,
+              "helpful_votes": 5
+            }
+          ]
+        },
+        {
+          "name": "Dreame L10s Ultra Robot Vacuum and Mop",
+          "price": {
+            "original": 1299.99,
+            "current": 899.99,
+            "discount": "31%"
+          },
+          "rating": {
+            "average": 4.4,
+            "total_reviews": 156,
+            "breakdown": {
+              "5_star": 98,
+              "4_star": 32,
+              "3_star": 12,
+              "2_star": 8,
+              "1_star": 6
+            }
+          },
+          "features": [
+            "Auto-Empty",
+            "Mop Self-Cleaning",
+            "5,300Pa Suction",
+            "3D Obstacle Avoidance",
+            "Multi-Floor Mapping"
+          ],
+          "latest_reviews": [
+            {
+              "author": "TechLover",
+              "date": "May 2, 2025",
+              "rating": 5,
+              "title": "Great Value for the Price",
+              "verified_purchase": true,
+              "helpful_votes": 12
+            },
+            {
+              "author": "CleanFreak",
+              "date": "April 15, 2025",
+              "rating": 4,
+              "title": "Good Performance but App Needs Work",
+              "verified_purchase": true,
+              "helpful_votes": 8
+            },
+            {
+              "author": "HomeOwner",
+              "date": "March 30, 2025",
+              "rating": 5,
+              "title": "Perfect for Pet Hair",
+              "verified_purchase": true,
+              "helpful_votes": 15
+            }
+          ]
+        },
+        {
+          "name": "Dreame D9 Max Robot Vacuum and Mop",
+          "price": {
+            "original": 349.99,
+            "current": 279.99,
+            "discount": "20%"
+          },
+          "rating": {
+            "average": 4.0,
+            "total_reviews": 203,
+            "breakdown": {
+              "5_star": 112,
+              "4_star": 45,
+              "3_star": 25,
+              "2_star": 12,
+              "1_star": 9
+            }
+          },
+          "features": [
+            "2-in-1 Vacuum and Mop",
+            "3,000Pa Suction",
+            "Smart Mapping",
+            "App Control",
+            "150 Min Runtime"
+          ],
+          "latest_reviews": [
+            {
+              "author": "BudgetBuyer",
+              "date": "May 10, 2025",
+              "rating": 4,
+              "title": "Great Entry-Level Robot Vacuum",
+              "verified_purchase": true,
+              "helpful_votes": 6
+            },
+            {
+              "author": "FirstTimer",
+              "date": "April 22, 2025",
+              "rating": 3,
+              "title": "Decent for the Price but Has Limitations",
+              "verified_purchase": true,
+              "helpful_votes": 9
+            },
+            {
+              "author": "SmartHomeFan",
+              "date": "April 5, 2025",
+              "rating": 5,
+              "title": "Excellent Value Robot Vacuum",
+              "verified_purchase": true,
+              "helpful_votes": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roomba",
+      "products": [
+        {
+          "name": "iRobot Roomba j7+ Self-Emptying Robot Vacuum",
+          "price": {
+            "original": 799.99,
+            "current": 599.99,
+            "discount": "25%"
+          },
+          "rating": {
+            "average": 4.3,
+            "total_reviews": 8229,
+            "breakdown": {
+              "5_star": 5842,
+              "4_star": 1234,
+              "3_star": 576,
+              "2_star": 329,
+              "1_star": 248
+            }
+          },
+          "features": [
+            "Self-Emptying Base",
+            "PrecisionVision Navigation",
+            "Pet Waste Avoidance",
+            "Smart Mapping",
+            "Voice Assistant Compatible"
+          ],
+          "latest_reviews": [
+            {
+              "author": "PetOwner",
+              "date": "May 5, 2025",
+              "rating": 5,
+              "title": "Finally a Robot That Avoids Pet Accidents",
+              "verified_purchase": true,
+              "helpful_votes": 45
+            },
+            {
+              "author": "TechEnthusiast",
+              "date": "April 12, 2025",
+              "rating": 4,
+              "title": "Great Navigation but Loud When Emptying",
+              "verified_purchase": true,
+              "helpful_votes": 23
+            },
+            {
+              "author": "SmartHomeUser",
+              "date": "March 28, 2025",
+              "rating": 5,
+              "title": "Best Robot Vacuum I've Owned",
+              "verified_purchase": true,
+              "helpful_votes": 37
+            }
+          ]
+        },
+        {
+          "name": "iRobot Roomba Combo j7+ Self-Emptying Robot Vacuum & Mop",
+          "price": {
+            "original": 1099.99,
+            "current": 899.00,
+            "discount": "18%"
+          },
+          "rating": {
+            "average": 4.1,
+            "total_reviews": 891,
+            "breakdown": {
+              "5_star": 534,
+              "4_star": 178,
+              "3_star": 89,
+              "2_star": 45,
+              "1_star": 45
+            }
+          },
+          "features": [
+            "2-in-1 Vacuum and Mop",
+            "Self-Emptying Base",
+            "Automatic Bin Emptying",
+            "Obstacle Avoidance",
+            "Carpet Detection"
+          ],
+          "latest_reviews": [
+            {
+              "author": "CleaningPro",
+              "date": "May 8, 2025",
+              "rating": 4,
+              "title": "Great Vacuum, Decent Mopping",
+              "verified_purchase": true,
+              "helpful_votes": 19
+            },
+            {
+              "author": "ModernHome",
+              "date": "April 20, 2025",
+              "rating": 5,
+              "title": "Perfect All-in-One Solution",
+              "verified_purchase": true,
+              "helpful_votes": 27
+            },
+            {
+              "author": "BusyParent",
+              "date": "April 2, 2025",
+              "rating": 3,
+              "title": "Good but Mopping Could Be Better",
+              "verified_purchase": true,
+              "helpful_votes": 14
+            }
+          ]
+        },
+        {
+          "name": "iRobot Roomba i3+ EVO Self-Emptying Robot Vacuum",
+          "price": {
+            "original": 549.99,
+            "current": 399.99,
+            "discount": "27%"
+          },
+          "rating": {
+            "average": 4.2,
+            "total_reviews": 3750,
+            "breakdown": {
+              "5_star": 2250,
+              "4_star": 825,
+              "3_star": 375,
+              "2_star": 187,
+              "1_star": 113
+            }
+          },
+          "features": [
+            "Self-Emptying Base",
+            "Smart Navigation",
+            "10x Power-Lifting Suction",
+            "Dual Multi-Surface Brushes",
+            "Compatible with Alexa/Google"
+          ],
+          "latest_reviews": [
+            {
+              "author": "ValueSeeker",
+              "date": "May 12, 2025",
+              "rating": 5,
+              "title": "Best Value Roomba with Self-Emptying",
+              "verified_purchase": true,
+              "helpful_votes": 31
+            },
+            {
+              "author": "FirstRoomba",
+              "date": "April 25, 2025",
+              "rating": 4,
+              "title": "Great for Daily Maintenance",
+              "verified_purchase": true,
+              "helpful_votes": 18
+            },
+            {
+              "author": "PetHousehold",
+              "date": "April 8, 2025",
+              "rating": 5,
+              "title": "Handles Pet Hair Like a Champ",
+              "verified_purchase": true,
+              "helpful_votes": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shark",
+      "products": [
+        {
+          "name": "Shark AI Ultra Robot Vacuum with Self-Empty Base",
+          "price": {
+            "original": 599.99,
+            "current": 349.99,
+            "discount": "42%"
+          },
+          "rating": {
+            "average": 4.2,
+            "total_reviews": 44284,
+            "breakdown": {
+              "5_star": 30996,
+              "4_star": 6642,
+              "3_star": 2214,
+              "2_star": 2214,
+              "1_star": 2218
+            }
+          },
+          "features": [
+            "Self-Empty Base",
+            "Matrix Clean Navigation",
+            "HEPA Filtration",
+            "Bagless Design",
+            "Voice Control"
+          ],
+          "latest_reviews": [
+            {
+              "author": "SharkFan",
+              "date": "May 15, 2025",
+              "rating": 5,
+              "title": "Excellent Value for a Self-Emptying Robot",
+              "verified_purchase": true,
+              "helpful_votes": 42
+            },
+            {
+              "author": "CleaningExpert",
+              "date": "April 28, 2025",
+              "rating": 4,
+              "title": "Great Performance at This Price Point",
+              "verified_purchase": true,
+              "helpful_votes": 29
+            },
+            {
+              "author": "DailyUser",
+              "date": "April 10, 2025",
+              "rating": 5,
+              "title": "Best Robot Vacuum Under $400",
+              "verified_purchase": true,
+              "helpful_votes": 35
+            }
+          ]
+        },
+        {
+          "name": "Shark AI Ultra 2-in-1 Robot Vacuum and Mop",
+          "price": {
+            "original": 699.99,
+            "current": 399.99,
+            "discount": "43%"
+          },
+          "rating": {
+            "average": 3.7,
+            "total_reviews": 386,
+            "breakdown": {
+              "5_star": 193,
+              "4_star": 77,
+              "3_star": 39,
+              "2_star": 39,
+              "1_star": 38
+            }
+          },
+          "features": [
+            "Vacuum and Mop Combo",
+            "Matrix Clean Navigation",
+            "CleanEdge Technology",
+            "Perfect for Pet Hair",
+            "Alexa Compatible"
+          ],
+          "latest_reviews": [
+            {
+              "author": "MopUser",
+              "date": "May 18, 2025",
+              "rating": 4,
+              "title": "Good Vacuum, Decent Mopping",
+              "verified_purchase": true,
+              "helpful_votes": 15
+            },
+            {
+              "author": "PetOwner2",
+              "date": "May 1, 2025",
+              "rating": 3,
+              "title": "Great for Pet Hair, Mopping Needs Improvement",
+              "verified_purchase": true,
+              "helpful_votes": 22
+            },
+            {
+              "author": "TechSavvy",
+              "date": "April 15, 2025",
+              "rating": 5,
+              "title": "Excellent 2-in-1 Solution",
+              "verified_purchase": true,
+              "helpful_votes": 18
+            }
+          ]
+        },
+        {
+          "name": "Shark Matrix Self-Emptying Robot Vacuum",
+          "price": {
+            "original": 449.99,
+            "current": 329.99,
+            "discount": "27%"
+          },
+          "rating": {
+            "average": 4.1,
+            "total_reviews": 1800,
+            "breakdown": {
+              "5_star": 1080,
+              "4_star": 360,
+              "3_star": 180,
+              "2_star": 90,
+              "1_star": 90
+            }
+          },
+          "features": [
+            "Self-Emptying Base",
+            "Matrix Grid Cleaning",
+            "Powerful Suction",
+            "Home Mapping",
+            "App Control"
+          ],
+          "latest_reviews": [
+            {
+              "author": "BudgetShopper",
+              "date": "May 20, 2025",
+              "rating": 5,
+              "title": "Best Budget Self-Emptying Robot",
+              "verified_purchase": true,
+              "helpful_votes": 27
+            },
+            {
+              "author": "FirstTimeRobot",
+              "date": "May 5, 2025",
+              "rating": 4,
+              "title": "Great Entry into Robot Vacuums",
+              "verified_purchase": true,
+              "helpful_votes": 19
+            },
+            {
+              "author": "CleanFreak2",
+              "date": "April 18, 2025",
+              "rating": 4,
+              "title": "Solid Performance for the Price",
+              "verified_purchase": true,
+              "helpful_votes": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ecovacs",
+      "products": [
+        {
+          "name": "ECOVACS DEEBOT X1 Omni Robot Vacuum and Mop Combo",
+          "price": {
+            "original": 1549.99,
+            "current": 1099.99,
+            "discount": "29%"
+          },
+          "rating": {
+            "average": 3.8,
+            "total_reviews": 15159,
+            "breakdown": {
+              "5_star": 7579,
+              "4_star": 3032,
+              "3_star": 1516,
+              "2_star": 1516,
+              "1_star": 1516
+            }
+          },
+          "features": [
+            "Self-Emptying",
+            "Auto-Wash",
+            "Auto-Refill",
+            "Auto-Hot Air Drying",
+            "5000Pa Suction"
+          ],
+          "latest_reviews": [
+            {
+              "author": "LuxuryBuyer",
+              "date": "May 22, 2025",
+              "rating": 4,
+              "title": "Premium Features but at a Premium Price",
+              "verified_purchase": true,
+              "helpful_votes": 53
+            },
+            {
+              "author": "TechReviewer",
+              "date": "May 8, 2025",
+              "rating": 5,
+              "title": "The Ultimate All-in-One Cleaning Solution",
+              "verified_purchase": true,
+              "helpful_votes": 67
+            },
+            {
+              "author": "SmartHomeExpert",
+              "date": "April 25, 2025",
+              "rating": 3,
+              "title": "Great Features but App Needs Work",
+              "verified_purchase": true,
+              "helpful_votes": 41
+            }
+          ]
+        },
+        {
+          "name": "ECOVACS DEEBOT X1 Turbo Robot Vacuum and Mop Combo",
+          "price": {
+            "original": 999.99,
+            "current": 597.24,
+            "discount": "40%"
+          },
+          "rating": {
+            "average": 3.6,
+            "total_reviews": 133,
+            "breakdown": {
+              "5_star": 60,
+              "4_star": 27,
+              "3_star": 20,
+              "2_star": 13,
+              "1_star": 13
+            }
+          },
+          "features": [
+            "Auto-Cleaning Station",
+            "5000Pa Suction",
+            "Upgraded Laser Navigation",
+            "Obstacle Avoidance",
+            "Built-in Voice Assistant"
+          ],
+          "latest_reviews": [
+            {
+              "author": "MidRangeBuyer",
+              "date": "May 25, 2025",
+              "rating": 4,
+              "title": "Great Middle-Ground Option",
+              "verified_purchase": true,
+              "helpful_votes": 12
+            },
+            {
+              "author": "TechSavvy2",
+              "date": "May 10, 2025",
+              "rating": 3,
+              "title": "Good Hardware, Software Needs Improvement",
+              "verified_purchase": true,
+              "helpful_votes": 18
+            },
+            {
+              "author": "CleaningEnthusiast",
+              "date": "April 30, 2025",
+              "rating": 5,
+              "title": "Excellent Cleaning Performance",
+              "verified_purchase": true,
+              "helpful_votes": 15
+            }
+          ]
+        },
+        {
+          "name": "ECOVACS DEEBOT X1 PLUS Robot Vacuum and Mop Combo",
+          "price": {
+            "original": 1150.00,
+            "current": 449.99,
+            "discount": "61%"
+          },
+          "rating": {
+            "average": 4.4,
+            "total_reviews": 59,
+            "breakdown": {
+              "5_star": 35,
+              "4_star": 12,
+              "3_star": 6,
+              "2_star": 3,
+              "1_star": 3
+            }
+          },
+          "features": [
+            "Auto-Empty Station",
+            "Advanced Obstacle Avoidance",
+            "TrueMapping Technology",
+            "Precision Navigation",
+            "App Control"
+          ],
+          "latest_reviews": [
+            {
+              "author": "BargainHunter",
+              "date": "May 28, 2025",
+              "rating": 5,
+              "title": "Amazing Value at This Price Point",
+              "verified_purchase": true,
+              "helpful_votes": 8
+            },
+            {
+              "author": "SmartHomeUser2",
+              "date": "May 15, 2025",
+              "rating": 4,
+              "title": "Great Features for the Price",
+              "verified_purchase": true,
+              "helpful_votes": 6
+            },
+            {
+              "author": "TechEnthusiast2",
+              "date": "May 2, 2025",
+              "rating": 5,
+              "title": "Excellent Mid-Range Robot Vacuum",
+              "verified_purchase": true,
+              "helpful_votes": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vacuum Cleaner Dashboard</title>
+    <!-- Chart.js for data visualization -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Bootstrap for responsive layout and styling -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container-fluid dashboard-container">
+        <!-- Header Section -->
+        <header class="row mb-4">
+            <div class="col-12 text-center">
+                <h1 class="dashboard-title">Vacuum Cleaner Comparison Dashboard</h1>
+                <p class="dashboard-subtitle">Interactive analysis of top robot vacuum cleaners</p>
+            </div>
+        </header>
+
+        <!-- Filter Section -->
+        <div class="row mb-4">
+            <div class="col-12 col-md-6 offset-md-3">
+                <div class="card filter-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Filter Products</h5>
+                        <div class="row">
+                            <div class="col-md-6 mb-2">
+                                <label for="brandFilter" class="form-label">Brand</label>
+                                <select id="brandFilter" class="form-select">
+                                    <option value="all">All Brands</option>
+                                    <!-- Brands will be populated dynamically -->
+                                </select>
+                            </div>
+                            <div class="col-md-6 mb-2">
+                                <label for="priceRange" class="form-label">Max Price (€)</label>
+                                <input type="range" class="form-range" id="priceRange" min="300" max="1100" step="50" value="1100">
+                                <div id="priceValue" class="text-end">€ 1100</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Charts Section -->
+        <div class="row mb-4">
+            <!-- Price Comparison Chart -->
+            <div class="col-md-6 mb-4">
+                <div class="card chart-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Price Comparison</h5>
+                        <div class="chart-container">
+                            <canvas id="priceChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Rating Comparison Chart -->
+            <div class="col-md-6 mb-4">
+                <div class="card chart-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Rating Comparison</h5>
+                        <div class="chart-container">
+                            <canvas id="ratingChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Brand Summary Section -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <div class="card summary-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Brand Summary</h5>
+                        <div class="chart-container">
+                            <canvas id="brandSummaryChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Product Cards Section -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <h3 class="section-title">Product Details</h3>
+            </div>
+            <div id="productCards" class="row">
+                <!-- Product cards will be populated dynamically -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom JS -->
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+{
+  "product": {
+    "name": "DREAME X50 Ultra Robot Vacuum and Mop with Auto-Empty and Mop Self-Cleaning",
+    "price": {
+      "original": 1699.99,
+      "current": 1399.99,
+      "discount": "18%"
+    },
+    "rating": {
+      "average": 4.2,
+      "total_reviews": 108,
+      "breakdown": {
+        "5_star": 75,
+        "4_star": 13,
+        "3_star": 3,
+        "2_star": 5,
+        "1_star": 12
+      }
+    }
+  },
+  "latest_reviews": [
+    {
+      "author": "John",
+      "date": "April 29, 2025",
+      "rating": 5,
+      "title": "Amazing Upgrade – Worth Every Penny!",
+      "verified_purchase": true,
+      "helpful_votes": 2
+    },
+    {
+      "author": "M1Rate",
+      "date": "March 18, 2025",
+      "rating": 5,
+      "title": "An Expensive but Full-Fledged & Effective Floor Cleaner",
+      "verified_purchase": true,
+      "helpful_votes": 37
+    },
+    {
+      "author": "Captain Matt",
+      "date": "March 26, 2025",
+      "rating": 5,
+      "title": "WORTH EVERY PENNY!",
+      "verified_purchase": true,
+      "helpful_votes": 5
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "amazon-product-extractor",
+  "version": "1.0.0",
+  "description": "Extract product information and reviews from Amazon using Bright Data MCP",
+  "main": "extract_amazon_data.js",
+  "scripts": {
+    "start": "node extract_amazon_data.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amazon",
+    "product",
+    "scraping",
+    "bright-data",
+    "mcp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

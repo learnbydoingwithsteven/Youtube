@@ -1,0 +1,269 @@
+{
+  "Dreame": [
+    {
+      "name": "Dreame X50 Ultra Complete",
+      "url": "https://www.amazon.it/dp/B0DPB7RN2L",
+      "price": "€ 1041",
+      "rating": "4.1 (601 reviews)",
+      "reviews": [
+        {
+          "author": "Reviewer 1",
+          "date": "2023-10-05",
+          "rating": "4",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        },
+        {
+          "author": "Reviewer 2",
+          "date": "2023-01-14",
+          "rating": "5",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        },
+        {
+          "author": "Reviewer 3",
+          "date": "2023-11-01",
+          "rating": "5",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        }
+      ]
+    },
+    {
+      "name": "Dreame L10s Ultra Gen 2",
+      "url": "https://www.amazon.it/dp/B0DCVYS9FQ",
+      "price": "€ 531",
+      "rating": "3.7 (143 reviews)",
+      "reviews": [
+        {
+          "author": "Reviewer 1",
+          "date": "2023-10-26",
+          "rating": "3",
+          "title": "Decent product",
+          "content": "This vacuum cleaner is decent. It does the job but could be better in some aspects."
+        },
+        {
+          "author": "Reviewer 2",
+          "date": "2023-07-04",
+          "rating": "3",
+          "title": "Decent product",
+          "content": "This vacuum cleaner is decent. It does the job but could be better in some aspects."
+        },
+        {
+          "author": "Reviewer 3",
+          "date": "2023-09-11",
+          "rating": "3",
+          "title": "Decent product",
+          "content": "This vacuum cleaner is decent. It does the job but could be better in some aspects."
+        }
+      ]
+    },
+    {
+      "name": "Dreame L40 Ultra",
+      "url": "https://www.amazon.it/dp/B0DCW1WZJ4",
+      "price": "€ 643",
+      "rating": "4.5 (52 reviews)",
+      "reviews": [
+        {
+          "author": "Reviewer 1",
+          "date": "2023-01-22",
+          "rating": "4",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        },
+        {
+          "author": "Reviewer 2",
+          "date": "2023-03-13",
+          "rating": "3",
+          "title": "Decent product",
+          "content": "This vacuum cleaner is decent. It does the job but could be better in some aspects."
+        },
+        {
+          "author": "Reviewer 3",
+          "date": "2023-12-14",
+          "rating": "3",
+          "title": "Decent product",
+          "content": "This vacuum cleaner is decent. It does the job but could be better in some aspects."
+        }
+      ]
+    }
+  ],
+  "Roborock": [
+    {
+      "name": "Roborock S8 Pro Ultra",
+      "url": "https://www.amazon.it/dp/B0BSL98D73",
+      "price": "€ 541",
+      "rating": "4.4 (850 reviews)",
+      "reviews": [
+        {
+          "author": "Reviewer 1",
+          "date": "2023-01-07",
+          "rating": "4",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        },
+        {
+          "author": "Reviewer 2",
+          "date": "2023-03-06",
+          "rating": "5",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        },
+        {
+          "author": "Reviewer 3",
+          "date": "2023-09-01",
+          "rating": "4",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        }
+      ]
+    },
+    {
+      "name": "Roborock Q7 Max",
+      "url": "https://www.amazon.it/dp/B09S3RR6LD",
+      "price": "€ 477",
+      "rating": "4.5 (400 reviews)",
+      "reviews": [
+        {
+          "author": "Reviewer 1",
+          "date": "2023-06-16",
+          "rating": "4",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        },
+        {
+          "author": "Reviewer 2",
+          "date": "2023-03-07",
+          "rating": "3",
+          "title": "Decent product",
+          "content": "This vacuum cleaner is decent. It does the job but could be better in some aspects."
+        },
+        {
+          "author": "Reviewer 3",
+          "date": "2023-11-01",
+          "rating": "5",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        }
+      ]
+    },
+    {
+      "name": "Roborock Q5 Pro+",
+      "url": "https://www.amazon.it/dp/B0CCD9YGXJ",
+      "price": "€ 1040",
+      "rating": "4.0 (465 reviews)",
+      "reviews": [
+        {
+          "author": "Reviewer 1",
+          "date": "2023-07-05",
+          "rating": "4",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        },
+        {
+          "author": "Reviewer 2",
+          "date": "2023-02-28",
+          "rating": "4",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        },
+        {
+          "author": "Reviewer 3",
+          "date": "2023-11-18",
+          "rating": "5",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        }
+      ]
+    }
+  ],
+  "iRobot Roomba": [
+    {
+      "name": "Roomba S9+ (9550)",
+      "url": "https://www.amazon.it/dp/B07QXM2V6X",
+      "price": "€ 1016",
+      "rating": "3.2 (379 reviews)",
+      "reviews": [
+        {
+          "author": "Reviewer 1",
+          "date": "2023-08-24",
+          "rating": "3",
+          "title": "Decent product",
+          "content": "This vacuum cleaner is decent. It does the job but could be better in some aspects."
+        },
+        {
+          "author": "Reviewer 2",
+          "date": "2023-03-11",
+          "rating": "4",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        },
+        {
+          "author": "Reviewer 3",
+          "date": "2023-04-25",
+          "rating": "5",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        }
+      ]
+    },
+    {
+      "name": "Roomba J7+",
+      "url": "https://www.amazon.it/dp/B0BSNTCVVX",
+      "price": "€ 890",
+      "rating": "4.9 (545 reviews)",
+      "reviews": [
+        {
+          "author": "Reviewer 1",
+          "date": "2023-09-15",
+          "rating": "3",
+          "title": "Decent product",
+          "content": "This vacuum cleaner is decent. It does the job but could be better in some aspects."
+        },
+        {
+          "author": "Reviewer 2",
+          "date": "2023-01-02",
+          "rating": "4",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        },
+        {
+          "author": "Reviewer 3",
+          "date": "2023-06-12",
+          "rating": "5",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        }
+      ]
+    },
+    {
+      "name": "Roomba Combo J5",
+      "url": "https://www.amazon.it/dp/B0C414DZPN",
+      "price": "€ 374",
+      "rating": "3.9 (919 reviews)",
+      "reviews": [
+        {
+          "author": "Reviewer 1",
+          "date": "2023-05-27",
+          "rating": "3",
+          "title": "Decent product",
+          "content": "This vacuum cleaner is decent. It does the job but could be better in some aspects."
+        },
+        {
+          "author": "Reviewer 2",
+          "date": "2023-09-26",
+          "rating": "3",
+          "title": "Decent product",
+          "content": "This vacuum cleaner is decent. It does the job but could be better in some aspects."
+        },
+        {
+          "author": "Reviewer 3",
+          "date": "2023-02-23",
+          "rating": "4",
+          "title": "Great product",
+          "content": "Very satisfied with this vacuum cleaner. It works great and has excellent suction power."
+        }
+      ]
+    }
+  ]
+}
