@@ -1,0 +1,1 @@
+This repository is a comprehensive collection of data science, machine learning, and AI projects featured on my YouTube channel, with topics ranging from financial analysis and LLM implementations to deep learning and data science education.
