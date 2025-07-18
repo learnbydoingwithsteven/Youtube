@@ -38,7 +38,7 @@ This project demonstrates:
 - Python 3.8+
 - Required packages:
   ```bash
-  pip install pyautogen
+  pip install ag2
   pip install yfinance
   pip install pandas numpy
   pip install matplotlib seaborn

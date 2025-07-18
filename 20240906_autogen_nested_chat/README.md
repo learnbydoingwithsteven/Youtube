@@ -43,7 +43,7 @@ This project showcases:
 - Python 3.8+
 - Required packages:
   ```bash
-  pip install pyautogen openai
+  pip install ag2 openai
   ```
 - OpenAI API key or compatible LLM setup
 

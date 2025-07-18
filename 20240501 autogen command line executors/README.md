@@ -42,7 +42,7 @@ The project illustrates:
 - Python 3.8+
 - Required packages:
   ```bash
-  pip install pyautogen
+  pip install ag2
   ```
 
 ### Core Components
@@ -84,7 +84,7 @@ code_executor_agent = ConversableAgent(
 1. Clone the repository
 2. Install required dependencies:
    ```bash
-   pip install pyautogen
+   pip install ag2
    ```
 3. Open the Jupyter notebook
 4. Follow the examples and run the demonstrations
